@@ -63,4 +63,8 @@ Temporary Items
 /temp_lipo/libkuzu_*.a
 /temp_lipo/Kuzu.xcframework/
 /kuzu/
-/install/ 
+/install/
+
+# Environment variables and secrets
+.env
+.specstory/ 
